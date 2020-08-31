@@ -1,0 +1,17 @@
+Given two strings S and T of length n and m respectively. 
+Find count of distinct occurrences of T in S as a sub-sequence.
+
+Sample TestCase:
+
+Input:
+S = "banana" , T = "ban"
+Output:
+3
+Explanation:
+[ban], [ba n], [b an].
+
+Constraints:
+1<=length of(T)<=100
+1<=length of(S)<=8000
+
+Reference :Practice Geeksforgeeks 
